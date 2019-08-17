@@ -1,0 +1,10 @@
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\bin\Debug\CANBRICK_hardware.exe.config
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\bin\Debug\CANBRICK_hardware.exe
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\bin\Debug\CANBRICK_hardware.pdb
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.csprojAssemblyReference.cache
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.principal.resources
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.Properties.Resources.resources
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.csproj.GenerateResource.cache
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.exe
+E:\PROGRAMACION\c++_verano2019\CANBRICK_hardware\CANBRICK_hardware\obj\Debug\CANBRICK_hardware.pdb
